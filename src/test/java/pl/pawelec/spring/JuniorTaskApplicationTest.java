@@ -19,7 +19,7 @@ import pl.pawelec.spring.repository.PersonDataRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = {RunApplication.class})
-public class JuniorIntecaApplicationTests {
+public class JuniorTaskApplicationTest {
     @Autowired
     private PersonDataRepository personDataRepository;
         

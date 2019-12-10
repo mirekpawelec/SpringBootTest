@@ -18,7 +18,6 @@ import pl.pawelec.spring.repository.impl.PersonDataRepositoryImpl;
  * @author mirek
  */
 @SpringBootApplication(scanBasePackages = {"pl.pawelec.spring"})
-//@EnableJpaRepositories("pl.inteca.spring.repository.impl")
 //@EnableTransactionManagement
 public class RunApplication {
     public static void main(String[] args) {
